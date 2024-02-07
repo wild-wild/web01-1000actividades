@@ -31,7 +31,19 @@
             margin-left: auto;
             margin-right: auto;
             width: 50%;
+    }
+    .img_testimonio
+    {
+       /* centrar */
+         display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 95%;
             
+    }
+    .secction_preguntasFrecuentes2
+    {
+        width: 95%;
     }
 
 
