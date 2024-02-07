@@ -24,6 +24,15 @@
     .custom_nav-container.navbar-expand-lg .navbar-nav .nav-link {
         color: #fff;
     }
+    .img_compraSegura
+    {
+       /* centrar */
+         display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;
+            
+    }
 
 
 }

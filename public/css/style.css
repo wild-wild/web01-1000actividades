@@ -30,9 +30,9 @@ html, body
 
 .call_to-btn {
   display: inline-block;
-  padding: 15px 45px;
+  padding: 15px 15px;
   border-radius: 10px;
-  font-size: 15px;
+  font-size: 25px;
   background-color: #929292;
   color: #262627;
   font-weight: 600;
@@ -576,4 +576,8 @@ a:focus {
 }
 .section_compraSegura {
   background-color: #000000;
+}
+.img_principal{
+  filter: drop-shadow(0px 0px 10px rgba(87, 87, 87, 0.75));
+
 }
