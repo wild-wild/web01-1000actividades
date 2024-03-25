@@ -35,7 +35,8 @@ body {
 }
 
 .bg_pago{
-  background-color: #d6d309;
+  background-color: #ffffff;
+  margin-bottom: 5px;
 }
 .call_to-btn {
   display: inline-block;
@@ -142,4 +143,22 @@ body {
     height: 220px;
 
   }
+  .img_compraSegura
+  {
+     /* centrar */
+       display: block;
+          margin-left: auto;
+          margin-right: auto;
+          width: 50%;
+  }
+  .img_testimonio
+  {
+     /* centrar */
+       display: block;
+          margin-left: auto;
+          margin-right: auto;
+          width: 95%;
+          
+  }
 }
+
